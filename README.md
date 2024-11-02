@@ -29,3 +29,6 @@ Mean Absolute Error (MAE)
 Root Mean Squared Error (RMSE)
 Results
 The project demonstrates effective sales predictions, achieving an RMSE of approximately [insert value] on the validation dataset. The model accurately captures seasonality and promotional effects.
+Precise sales prediction is an essential and inexpensive way for each company to augment their profits, decrease their costs, and achieve greater flexibility to changes. In other words, exact sales forecasting is utilized for capturing the tradeoff between customer demand satisfaction and inventory costs. Especially, for the pharmaceutical industry, successful sales forecasting systems can be very beneficial, due to the short shelf-life of many pharmaceutical products and the importance of the product quality which is closely related to the human health.
+
+In this project, we will forecast the sales of different stores for six weeks.
