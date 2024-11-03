@@ -39,6 +39,7 @@ Deep Learning (LSTM) for time-series forecasting.
 Evaluation Metrics:
 Mean Absolute Error (MAE)
 Root Mean Squared Error (RMSE)
+Task 1 - Exploration of customer purchasing behaviour,1.2 - Logging,Task 2 - Prediction of store sales ,2.1 Preprocessing,2.2 Building models with sklearn pipelines,2.3 Choose a loss function,2.4 Post Prediction analysis,2.5 Serialize models,2.7 Using MLFlow to serve the prediction,Task 3 - Serving predictions on a web interface,ask 1 - Exploration of customer purchasing behaviour
 Results
 The project demonstrates effective sales predictions, achieving an RMSE of approximately [insert value] on the validation dataset. The model accurately captures seasonality and promotional effects.
 Precise sales prediction is an essential and inexpensive way for each company to augment their profits, decrease their costs, and achieve greater flexibility to changes. In other words, exact sales forecasting is utilized for capturing the tradeoff between customer demand satisfaction and inventory costs. Especially, for the pharmaceutical industry, successful sales forecasting systems can be very beneficial, due to the short shelf-life of many pharmaceutical products and the importance of the product quality which is closely related to the human health.
