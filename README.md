@@ -1,3 +1,6 @@
+![sale per customer trend proj-6](https://github.com/user-attachments/assets/30e29789-d7c5-4380-98d6-399e46eca0ae)
+![prediction with 95% confidence interval](https://github.com/user-attachments/assets/0399a1e6-606a-4c8b-9bc1-81dae1f4e3d8)
+![storewise promo effect on sales](https://github.com/user-attachments/assets/beb88e5f-5199-429a-bb3d-0073733f6c59)
 ![Total sales bar plot](https://github.com/user-attachments/assets/1b2c406d-efeb-4646-8a73-cc6b849e7f80)
 ![time series](https://github.com/user-attachments/assets/073fc766-3018-46e8-8417-ebedc2c106ac)
 ![time series ](https://github.com/user-attachments/assets/4b8fadc5-d1c4-42cd-a0bb-bd82dbaf4e0a)
