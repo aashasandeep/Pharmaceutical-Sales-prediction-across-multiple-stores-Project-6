@@ -1,3 +1,15 @@
+![Total sales bar plot](https://github.com/user-attachments/assets/1b2c406d-efeb-4646-8a73-cc6b849e7f80)
+![time series](https://github.com/user-attachments/assets/073fc766-3018-46e8-8417-ebedc2c106ac)
+![time series ](https://github.com/user-attachments/assets/4b8fadc5-d1c4-42cd-a0bb-bd82dbaf4e0a)
+![storewise promo effect on sales](https://github.com/user-attachments/assets/af16839a-c7f3-4dc7-8c1d-19cd96c20aed)
+![Scatter plot of -6](https://github.com/user-attachments/assets/f2645edf-ad5f-4da7-a6b8-ad359a6d8024)
+![sale per customer trend proj-6](https://github.com/user-attachments/assets/8584cfae-889c-4850-9e88-f6c605b3a2c5)
+![promo and sales sum ](https://github.com/user-attachments/assets/097245fb-1751-4681-b2e0-93f8fb2c4495)
+![promo and customers](https://github.com/user-attachments/assets/9a9f0685-2c79-4d28-91dc-4245702f0b14)
+![proj-6](https://github.com/user-attachments/assets/2270fa9d-798a-40b6-9865-8c95991acd1e)
+![proj-6 store type](https://github.com/user-attachments/assets/ea08ae53-6383-4d6a-897d-2fa3ebbacfa3)
+![pro-6 Heat map](https://github.com/user-attachments/assets/33a6f0df-1d02-46bd-98be-14f0265df705)
+![number of holidays and stateholidays](https://github.com/user-attachments/assets/65a848e7-9ed1-4a24-829d-f800a765760e)
 # Pharmaceutical-Sales-prediction-across-multiple-stores-Project-6
 Pharmaceutical Sales prediction  across multiple stores Project-6
 Project Overview
